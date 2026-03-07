@@ -2,8 +2,8 @@
 > **Tarea:** Ejecutar, comprender y explicar como cambia la salida de una neurona cuando se modifica las entradas, pesos y sesgo.
 
 > [!TIP]
-> **Solución Actividad 1:** Codigo ejecutado en Google Colab y exportado en formato .ipynb (week1/Actividad1.ipynb) con las respuestas del ejercicio generadas en anotaciones (Markdown).
-> > **Solución Actividad Adicional:** Codigo ejecutado en Google Colab y exportado en formato .ipynb (week1/ActividadAdicional1.ipynb) con la explicación de la neurona propuesta aplicada a un ejercicio real con el perceptron (Markdown).
+> **Solución Actividad 1:** Codigo ejecutado en Google Colab y exportado en formato .ipynb (week1/Actividad1.ipynb) con las respuestas del ejercicio generadas en anotaciones (Markdown). <br>
+> **Solución Actividad Adicional:** Codigo ejecutado en Google Colab y exportado en formato .ipynb (week1/ActividadAdicional1.ipynb) con la explicación de la neurona propuesta aplicada a un ejercicio real con el perceptron (Markdown).
 
 
 <sub>Autor: Jhoan Avila Gutierrez<sub>
