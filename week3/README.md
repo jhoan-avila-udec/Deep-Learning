@@ -2,7 +2,7 @@
 > **Tarea:**  Implementar y validar el proceso de aprendizaje de una red neuronal mediante backpropagation y el uso de funciones de activación.
 
 > [!TIP]
-> **Solución Actividad 1:** Codigo ejecutado en Google Colab y exportado en formato .ipynb (week3/Actividad2.ipynb) con el analisis de la realizacion de una Red Neuronal con Aprendizaje Backpropagation y Funciones de Activación en anotaciones (Markdown).
+> **Solución Actividad 2:** Codigo ejecutado en Google Colab y exportado en formato .ipynb (week3/Actividad2.ipynb) con el analisis de la realizacion de una Red Neuronal con Aprendizaje Backpropagation y Funciones de Activación en anotaciones (Markdown).
 
 Para este algoritmo se agregaron dos entradas X1, X2, cuatro capas ocultas H1, H2, H3, H4 y una salida. Los datos de entrada y etiquetas se generan una unica vez desde un dataset de numpy. Este modelo se empleo igual para las dos funciones de activacion y asi poder realizar una comparacion valida.
 
